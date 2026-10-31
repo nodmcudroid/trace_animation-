@@ -1,0 +1,4 @@
+# turtle and tkinter ship with Python (see README for Linux/macOS notes).
+opencv-python>=4.5
+numpy>=1.21
+Pillow>=9.0
